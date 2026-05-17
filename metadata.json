@@ -1,0 +1,8 @@
+{
+  "name": "MoP-LoRA Repository Viewer",
+  "description": "Implementation of MoP-LoRA: Breaking the Linear Bottleneck of Low-Rank Adaptation via Mixture of Paths",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
