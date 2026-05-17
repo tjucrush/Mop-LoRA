@@ -4,7 +4,6 @@
 [![License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
 [![Framework](https://img.shields.io/badge/PyTorch-2.0.1%2B-blue.svg)](https://pytorch.org/)
 
-**Status:** Under Review (一区 PR 在投)
 
 This repository contains the official PyTorch implementation of **MoP-LoRA** (Mixture of Paths LoRA).
 
